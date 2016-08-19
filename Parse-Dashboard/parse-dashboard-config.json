@@ -1,0 +1,17 @@
+{
+  "apps": [
+    {
+      "serverURL": "http://weightsndates-server-prod.herokuapp.com/parse",
+      "appId": "9dNCAwH7vA2ni7XTATXKsGQnNRCnwH7XVEKUgWyk",
+      "appName": "Weights N Dates Prod",
+      "masterKey": "seXsSDxuUaarP0gN6pCikpJiZZgKgKLiU0p8KJal"
+    }
+  ],
+  "users": [
+    {
+      "user":"weightsndates",
+      "pass":"lakers1234"
+    }
+  ]
+}
+
